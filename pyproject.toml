@@ -1,0 +1,2 @@
+[tool.ruff]
+select = ["I001"] # Enable import sorting (isort)
